@@ -1,7 +1,1 @@
-cd /path/to/your/project  # Apne project ke folder me jao
-git init  # Git initialize karo
-git add .  # Sabhi files ko staging me daalo
-git commit -m "First Commit"  # Pehla commit karo
-git branch -M main  # Branch ko 'main' bana do
-git remote add origin https://github.com/sk0033/RandomChat.git  # GitHub repo se link karo
-git push -u origin main  # GitHub pe code upload karo
+
